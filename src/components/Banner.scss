@@ -1,0 +1,14 @@
+.page-banner {
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    img {
+        height: 120px;
+        width: 120px;
+        margin-bottom: 72px;
+    }
+}
